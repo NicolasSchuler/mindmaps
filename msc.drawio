@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T14:25:17.752Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Vur50i65_zzD25X7RFAf" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T14:31:44.366Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HkDfHRzcuwt0RpbvB3yy" version="21.6.5" type="github">
   <diagram name="Seite-1" id="wlJV-xqVucs6HPZI-wY-">
-    <mxGraphModel dx="3936" dy="1255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5372" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,8 +119,8 @@
             <mxGeometry x="1260" y="560" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-35" value="Additional" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="210" y="850" width="100" height="50" as="geometry" />
+        <mxCell id="TeA0gqDEE4ePr5C79fon-35" value="Related Paper / Additional" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="870" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TeA0gqDEE4ePr5C79fon-36" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-35" parent="1" source="TeA0gqDEE4ePr5C79fon-6">
           <mxGeometry relative="1" as="geometry">
