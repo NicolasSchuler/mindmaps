@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T18:36:10.427Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ATIlFWf-Grm8X15wgjtI" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T18:40:13.407Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yx09iu55ad9GvUP5aM4V" version="21.6.5" type="github">
   <diagram name="Seite-1" id="wlJV-xqVucs6HPZI-wY-">
-    <mxGraphModel dx="7025" dy="3336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3444" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
         </UserObject>
         <UserObject label="" link="https://doi.org/10.3390/electronics10091014" id="TeA0gqDEE4ePr5C79fon-25">
           <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
-            <mxGeometry x="-380" y="320" width="30" height="30" as="geometry" />
+            <mxGeometry x="-385" y="320" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="https://www.nature.com/articles/sdata201555" id="TeA0gqDEE4ePr5C79fon-26">
@@ -190,7 +190,7 @@
             <mxPoint x="430" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-53" value="DC-STGCN: Graph Neural Network applied to Mobile-Network Traffic Forecasting&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" collapsed="1" parent="1">
+        <mxCell id="TeA0gqDEE4ePr5C79fon-53" value="DC-STGCN: Graph Neural Network applied to Mobile-Network Traffic Forecasting&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-340" y="320" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TeA0gqDEE4ePr5C79fon-54" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-53" parent="1" source="TeA0gqDEE4ePr5C79fon-62">
@@ -745,6 +745,19 @@
         </mxCell>
         <mxCell id="TeA0gqDEE4ePr5C79fon-201" value="On Classification Taks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="840" width="110" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://arxiv.org/pdf/2303.14483.pdf" id="TeA0gqDEE4ePr5C79fon-202">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+            <mxGeometry x="-500" y="380" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-204" value="Recent Survey:&amp;nbsp;Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-470" y="380" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-205" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-204" parent="1" source="TeA0gqDEE4ePr5C79fon-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-450" y="740" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
