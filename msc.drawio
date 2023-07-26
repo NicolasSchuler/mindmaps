@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T19:00:28.365Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8Iuxyy0OCsAt30yUP7RB" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T19:05:13.433Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="AtG5hh1HkwvQNB9Iu-M6" version="21.6.5" type="github">
   <diagram name="Seite-1" id="wlJV-xqVucs6HPZI-wY-">
     <mxGraphModel dx="5347" dy="2659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -806,6 +806,20 @@
             <mxGeometry x="-95" y="630" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-220" value="Historical Average (HA)" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-90" y="660" width="235" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-221" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-220" parent="1" source="TeA0gqDEE4ePr5C79fon-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-222" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="560" width="50" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-223" value="Classical Methods" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="610" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
