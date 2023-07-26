@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T15:48:14.548Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ORkKPX1GzPGxu7YnJq49" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T15:58:15.697Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SgkRNR8tKBywitNfFb5v" version="21.6.5" type="github">
   <diagram name="Seite-1" id="wlJV-xqVucs6HPZI-wY-">
     <mxGraphModel dx="5129" dy="2571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -502,7 +502,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TeA0gqDEE4ePr5C79fon-131" value="Typical Results for Forecasting" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-120" y="-100" width="200" height="30" as="geometry" />
+          <mxGeometry x="-115" y="-200" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TeA0gqDEE4ePr5C79fon-132" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.359;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-131" parent="1" source="TeA0gqDEE4ePr5C79fon-62">
           <mxGeometry relative="1" as="geometry">
@@ -625,7 +625,42 @@
           <mxGeometry x="1400" y="1280" width="883.12" height="340" as="geometry" />
         </mxCell>
         <mxCell id="TeA0gqDEE4ePr5C79fon-167" value="&lt;ul&gt;&lt;li&gt;Graph with ~230 nodes (PMS08 Dataset)&lt;/li&gt;&lt;li&gt;Different Graphicscards and CPU used (from 1080-3090)&lt;/li&gt;&lt;li&gt;Training in ~20 min some models less, but worse performance&lt;/li&gt;&lt;li&gt;Inference ~10sec - ~ 56 sec&lt;/li&gt;&lt;li&gt;Time window for prediction is 1h with 4 steps&lt;/li&gt;&lt;li&gt;Prediction Accuracy on first step is the best (RMSE: ~25%, MAE: ~16%)&amp;nbsp;&lt;/li&gt;&lt;li&gt;ARIMA Model is usually &amp;gt;10% worse&lt;/li&gt;&lt;li&gt;Some Datasets have better prediction accuracy with MAE: ~4%, RMSE: ~7% (METR-LA)&lt;/li&gt;&lt;li&gt;All Datasets are Road-Traffic related&lt;/li&gt;&lt;li&gt;Short-Term Forecasting: &amp;lt; 30 min&lt;/li&gt;&lt;li&gt;Long-Term Forecasting: &amp;gt;= 30 min&lt;/li&gt;&lt;li&gt;Often some algos focus on different aspects like:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Better recognize local pattern&lt;/li&gt;&lt;li&gt;Better long-term forecasting&lt;/li&gt;&lt;li&gt;Better reaction on effents like congestion&lt;/li&gt;&lt;li&gt;etc.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Most Publications came from Chinese Universities&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="-250" width="400" height="340" as="geometry" />
+          <mxGeometry x="-515" y="-350" width="400" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-170" value="Code" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-95" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-171" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.084;exitY=-0.053;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-170" parent="1" source="TeA0gqDEE4ePr5C79fon-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="140" y="160" />
+              <mxPoint x="150" y="170" />
+              <mxPoint x="150" y="160" />
+              <mxPoint x="110" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-173" value="&lt;ul&gt;&lt;li&gt;Sometimes no Code is available&lt;/li&gt;&lt;li&gt;Sometimes the concretly used Dataset is not accessible (Chinese Website with telefon registration)&lt;/li&gt;&lt;li&gt;Code often written with old Python and PyTorch Version (even recent publications)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="50" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-174" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="490" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-177" value="Ensemble Methods&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="505" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-178" value="Adversarial Attacks" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="100" y="645.6" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-179" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-178" parent="1" source="TeA0gqDEE4ePr5C79fon-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410" y="550" />
+              <mxPoint x="430" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
