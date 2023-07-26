@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T13:22:10.561Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rWU9xssdjQaiJRD7dZEq" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T13:41:46.772Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Ijd-__8i6W_wo8qNVcj7" version="21.6.5" type="github">
   <diagram name="Seite-1" id="wlJV-xqVucs6HPZI-wY-">
     <mxGraphModel dx="3936" dy="1255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,9 +42,11 @@
             <mxGeometry x="1260" y="680" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-14" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
-          <mxGeometry x="520" y="590" width="30" height="30" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="https://github.com/jswang/stgat_traffic_prediction/tree/main" id="TeA0gqDEE4ePr5C79fon-14">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+            <mxGeometry x="-440" y="280" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="TeA0gqDEE4ePr5C79fon-16" value="Stanford Lecture" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1120" y="640" width="160" height="30" as="geometry" />
         </mxCell>
@@ -87,15 +89,19 @@
             <mxGeometry x="1260" y="600" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-25" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
-          <mxGeometry x="520" y="590" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-26" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
-          <mxGeometry x="520" y="590" width="30" height="30" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="https://doi.org/10.3390/electronics10091014" id="TeA0gqDEE4ePr5C79fon-25">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+            <mxGeometry x="-380" y="320" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://www.nature.com/articles/sdata201555" id="TeA0gqDEE4ePr5C79fon-26">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+            <mxGeometry x="-350" y="320" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <UserObject label="" link="https://www.deepmind.com/blog/traffic-prediction-with-advanced-graph-neural-networks" id="TeA0gqDEE4ePr5C79fon-27">
           <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
-            <mxGeometry x="-60" y="830" width="30" height="30" as="geometry" />
+            <mxGeometry x="-60" y="840" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="https://www.golem.de/news/auch-privatanwender-betroffen-botnetz-malware-infiziert-ueber-70-000-router-2307-175881.html" id="TeA0gqDEE4ePr5C79fon-28">
@@ -145,56 +151,59 @@
             <mxPoint x="430" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-45" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="470" y="570" width="80" height="30" as="geometry" />
+        <mxCell id="TeA0gqDEE4ePr5C79fon-45" value="Graph WaveNet for Deep Spatial-Temporal Graph Modeling" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-310" y="240" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-46" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-45" parent="1">
+        <mxCell id="TeA0gqDEE4ePr5C79fon-46" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-45" parent="1" source="TeA0gqDEE4ePr5C79fon-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-47" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="470" y="570" width="80" height="30" as="geometry" />
+        <mxCell id="TeA0gqDEE4ePr5C79fon-47" value="Paper Overview Traffic Prediction mit GNN" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1120" y="530" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-48" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-47" parent="1">
+        <mxCell id="TeA0gqDEE4ePr5C79fon-48" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-47" parent="1" source="TeA0gqDEE4ePr5C79fon-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-49" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="470" y="570" width="80" height="30" as="geometry" />
+        <mxCell id="TeA0gqDEE4ePr5C79fon-49" value="PyTorch Geometric Temporal" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1360" y="600" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-50" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-49" parent="1">
+        <mxCell id="TeA0gqDEE4ePr5C79fon-50" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-49" parent="1" source="TeA0gqDEE4ePr5C79fon-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="650" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1380" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-51" value="STGAT: Spatial-Temporal Graph Attention Networks:A Deep Learning Approach for Traffic Forecasting&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-420" y="280" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-52" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-51" parent="1" source="TeA0gqDEE4ePr5C79fon-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-51" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="470" y="570" width="80" height="30" as="geometry" />
+        <mxCell id="TeA0gqDEE4ePr5C79fon-53" value="DC-STGCN: Graph Neural Network applied to Mobile-Network Traffic Forecasting&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-340" y="320" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-52" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-51" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="620" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-53" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="470" y="570" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-54" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-53" parent="1">
+        <mxCell id="TeA0gqDEE4ePr5C79fon-54" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-53" parent="1" source="TeA0gqDEE4ePr5C79fon-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TeA0gqDEE4ePr5C79fon-55" value="Google uses GNNs" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-45" y="830" width="205" height="30" as="geometry" />
+          <mxGeometry x="-40" y="840" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TeA0gqDEE4ePr5C79fon-56" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-55" parent="1" source="TeA0gqDEE4ePr5C79fon-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-57" value="Time-Series-Adversarial-Attacks" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-45" y="900" width="210" height="30" as="geometry" />
+        <mxCell id="TeA0gqDEE4ePr5C79fon-57" value="Time-Series-Adversarial-Attacks Repo" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-60" y="900" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TeA0gqDEE4ePr5C79fon-58" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-57" parent="1" source="TeA0gqDEE4ePr5C79fon-35">
           <mxGeometry relative="1" as="geometry">
@@ -212,6 +221,61 @@
             <mxPoint x="430" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-62" value="Forecasting" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-63" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-62" parent="1" source="TeA0gqDEE4ePr5C79fon-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="620" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-65" value="Datasets" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="825" y="920" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-66" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-65" parent="1" source="TeA0gqDEE4ePr5C79fon-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-68" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-69" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-70" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-71" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-72" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-73" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-74" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-75" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://github.com/nnzhan/Graph-WaveNet" id="TeA0gqDEE4ePr5C79fon-76">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+            <mxGeometry x="-300" y="240" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/aprbw/traffic_prediction" id="TeA0gqDEE4ePr5C79fon-77">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+            <mxGeometry x="1370" y="530" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/benedekrozemberczki/pytorch_geometric_temporal" id="TeA0gqDEE4ePr5C79fon-78">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+            <mxGeometry x="1540" y="600" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
