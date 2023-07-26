@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T13:41:46.772Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Ijd-__8i6W_wo8qNVcj7" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T13:50:04.689Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="78wS3Cs0NWTj0ypty2OM" version="21.6.5" type="github">
   <diagram name="Seite-1" id="wlJV-xqVucs6HPZI-wY-">
     <mxGraphModel dx="3936" dy="1255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,9 +258,11 @@
         <mxCell id="TeA0gqDEE4ePr5C79fon-74" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
           <mxGeometry x="520" y="450" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TeA0gqDEE4ePr5C79fon-75" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
-          <mxGeometry x="520" y="450" width="30" height="30" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="https://github.com/jwwthu/GNN4Traffic/tree/master" id="TeA0gqDEE4ePr5C79fon-75">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+            <mxGeometry x="1445" y="530" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <UserObject label="" link="https://github.com/nnzhan/Graph-WaveNet" id="TeA0gqDEE4ePr5C79fon-76">
           <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
             <mxGeometry x="-300" y="240" width="30" height="30" as="geometry" />
@@ -268,7 +270,7 @@
         </UserObject>
         <UserObject label="" link="https://github.com/aprbw/traffic_prediction" id="TeA0gqDEE4ePr5C79fon-77">
           <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
-            <mxGeometry x="1370" y="530" width="30" height="30" as="geometry" />
+            <mxGeometry x="1380" y="530" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="https://github.com/benedekrozemberczki/pytorch_geometric_temporal" id="TeA0gqDEE4ePr5C79fon-78">
@@ -276,6 +278,19 @@
             <mxGeometry x="1540" y="600" width="30" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="" link="https://github.com/xiepeng21/research_spatio-temporal-data-mining" id="TeA0gqDEE4ePr5C79fon-79">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+            <mxGeometry x="1410" y="530" width="30" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-80" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="955" y="890" width="345" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TeA0gqDEE4ePr5C79fon-81" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="TeA0gqDEE4ePr5C79fon-80" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="915" y="940" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
